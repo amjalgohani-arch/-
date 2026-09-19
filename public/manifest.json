@@ -1,0 +1,21 @@
+{
+  "short_name": "الثانوية 34",
+  "name": "مساعد الثانوية الرابعة والثلاثون بجدة",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1e1b4b",
+  "theme_color": "#312e81",
+  "display": "standalone",
+  "orientation": "portrait"
+}
